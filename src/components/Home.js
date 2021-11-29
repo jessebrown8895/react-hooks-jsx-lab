@@ -7,7 +7,7 @@ function Home() {
   <div id="home">
     <div>
       <h1 style={{color: "firebrick"}}>
-        "Your {name} is a Web Developer from Your {city}"
+        {name} is a Web Developer from {city}
       </h1>
       home
     </div>
